@@ -1,0 +1,9 @@
+Package: com.drewsdunne.nolockbounce
+Name: NoLockBounce
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Removes the bounce when tapping on the lockscreen
+Maintainer: drewsdunne
+Author: drewsdunne
+Section: Tweaks
